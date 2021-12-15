@@ -1,0 +1,36 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.nav-logo{
+    color: white;
+}
+.navbar-text{
+    color: white;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 700;    
+}
+.homepage_nav_div{
+    padding: 20px;
+}
+
+.welcome_div{
+    padding: 20px;
+    height: 600px;
+    background-image: url(img/back1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.service_div{
+    height: 500px;
+    background-color: lightgray;
+    color: black;
+}
+
+.about_div{
+    height: 500px;
+}
